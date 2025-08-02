@@ -1,0 +1,38 @@
+[
+  {
+    "topic": "1. ECINET Unified Election App",
+    "subtopics": [
+      {
+        "subtopic": "Election Commission Integrates 40+ IT Platforms",
+        "content": "• ECI is developing ECINET, a unified app integrating over 40 mobile and web applications.\n• Provides a one-stop platform for all electoral activities for electors, officials, parties, and civil society.\n• Formed: 25 January 1950.\n• Headquarters: New Delhi.\n• Chief Election Commissioner: Gyanesh Kumar."
+      }
+    ]
+  },
+  {
+    "topic": "2. Overseas Citizen of India (OCI) Portal Revamp",
+    "subtopics": [
+      {
+        "subtopic": "Amit Shah Launches New OCI Portal",
+        "content": "• New OCI portal launched to provide world-class immigration facilities for OCI cardholders.\n• Accessible at https://ociservices.gov.in.\n• Operational in 180+ Indian missions abroad and 12 FRROs.\n• OCI scheme introduced in 2005 via amendment to Citizenship Act, 1955.\n• Not eligible for those linked to Pakistan or Bangladesh citizenship."
+      }
+    ]
+  },
+  {
+    "topic": "3. Know Your DIGIPIN & PIN Code Portals",
+    "subtopics": [
+      {
+        "subtopic": "Modernising Geospatial Addressing System",
+        "content": "• Department of Posts launched 'Know Your DIGIPIN' and 'Know Your PIN Code' platforms.\n• Aims to modernise India's addressing system and geospatial governance.\n• Aligned with National Geospatial Policy 2022."
+      }
+    ]
+  },
+  {
+    "topic": "4. UPSC Online Application Portal",
+    "subtopics": [
+      {
+        "subtopic": "New Registration and Application System",
+        "content": "• UPSC introduced a new online portal for registration and application forms.\n• Homepage divided into four parts: Account Creation, Universal Registration, Common Application Form, and Examination.\n• Common info can be filled anytime; exam-specific info during notification period."
+      }
+    ]
+  }
+]
